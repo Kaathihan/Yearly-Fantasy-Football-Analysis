@@ -62,9 +62,7 @@ When analysing specifically the Wide Receivers we found that a lot could be take
 
 This information later allowed us to compare it to the quarterbacks we analyzed and showed they were much more likely to be consistent with their point accumulation over many years, likely being due to the fact they are less likely to get injured which further confirms our assumption that when running backs points were falling to 0, it was an indication of an injury. So unexpectedly, our analysis on quarterbacks helped us solve an unanswered question from a previous analysis.
 
-We also found a significant gap in performance between the top tier Wide Receivers and the rest of the tier players. What was unexpected was the size of the gap that was
-
-larger than expected. What was also unexpected was that we found that all wide receivers had a target rate of over 11%.
+We also found a significant gap in performance between the top tier Wide Receivers and the rest of the tier players. What was unexpected was the size of the gap that was larger than expected. What was also unexpected was that we found that all wide receivers had a target rate of over 11%.
 
 Finally, we looked at the Running Backs and explored the correlation between our own defined workload, estimated at a higher-than-average carry, and the number of injuries which came with this. A limitation we ran into was finding a way to determine what defined a heavy workload when analyzing the Running Backs in the data.
 
