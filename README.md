@@ -38,7 +38,7 @@ Next, we observed the volatility of the NFL&#39;s top-tier Wide Receivers to det
 
 Our results allowed us to observe the fluctuations and predictability of the top receivers, which allows people to decide if they want to draft them or not.
 
-For example, this plot represents the top 10 fantasy wide receivers from 2015 and displays their yearly points in the later years. </br> ![](Graphs/WR_Line.png) </br>
+For example, this plot represents the top 10 fantasy wide receivers from 2015 and displays their yearly points in the later years. </br> ![](Graphs/WR_Line.png)
 
 As seen above, one can assess the steady decline in fantasy points and the players involved and can attribute these spikes and falls to things such as players aging or even lack of consistency in having good / bad years.
 
