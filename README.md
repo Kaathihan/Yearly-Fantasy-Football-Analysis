@@ -32,13 +32,13 @@ In the fantasy football word, volume reigns supreme. It is a simple concept wher
 
 When we finished analyzing the snap, rush and target percentage in correlation with their relationship to fantasy points, we found that snap percentage had a positive correlation with fantasy points in every position, but interestingly, rushing percentage had little to no correlation.
 
-![](Graphs/Volume_Plot.png)The position of Running Backs is a good way to represent the difference between the measurements of each of the columns that were analyzed with fantasy points.
+![](Graphs/Volume_Plot.png) </br> The position of Running Backs is a good way to represent the difference between the measurements of each of the columns that were analyzed with fantasy points.
 
 Next, we observed the volatility of the NFL&#39;s top-tier Wide Receivers to determine how valuable they are to a fantasy football team. We took the top 10 Wide Receivers of every year and followed their performance to see their change in point accumulation every year.
 
 Our results allowed us to observe the fluctuations and predictability of the top receivers, which allows people to decide if they want to draft them or not.
 
-For example, this plot represents the top 10 fantasy wide receivers from 2015 and displays their yearly points in the later years. ![](WR_Line.png)
+For example, this plot represents the top 10 fantasy wide receivers from 2015 and displays their yearly points in the later years. ![](Graphs/WR_Line.png) </br>
 
 As seen above, one can assess the steady decline in fantasy points and the players involved and can attribute these spikes and falls to things such as players aging or even lack of consistency in having good / bad years.
 
@@ -46,7 +46,7 @@ Quarterbacks are of course a key position in every team, especially for fantasy 
 
 After analyzing the consistency of wide receivers, we wanted to find the difference between each tier of receiver (each tier contains 14 WRs).
 
-![](Graphs/WR_Chart.png)The most surprising result was just how wide the gap between tier 1 and tier 2. It was much larger than the difference between 2 and 3, indicating how important a high-level Wide Receiver is on a fantasy team. All tiers shared a target share of over 11% which was unexpected. Thus when putting together a team we would strongly suggest choosing Wide Receivers with a target share greater than 11%.
+![](Graphs/WR_Chart.png) </br> The most surprising result was just how wide the gap between tier 1 and tier 2. It was much larger than the difference between 2 and 3, indicating how important a high-level Wide Receiver is on a fantasy team. All tiers shared a target share of over 11% which was unexpected. Thus when putting together a team we would strongly suggest choosing Wide Receivers with a target share greater than 11%.
 
 We have spoken about positions and injuries, but no other position is affected more from injuries than the Running Back. This relationship plays a big factor in determining their value in a fantasy team. We wanted to analyze any correlations that may be involved with a Running Backs number of injuries.
 
