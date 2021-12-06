@@ -32,7 +32,7 @@ In the fantasy football word, volume reigns supreme. It is a simple concept wher
 
 When we finished analyzing the snap, rush and target percentage in correlation with their relationship to fantasy points, we found that snap percentage had a positive correlation with fantasy points in every position, but interestingly, rushing percentage had little to no correlation.
 
-![](Graphs/Volume_Plot.png) </br> The position of Running Backs is a good way to represent the difference between the measurements of each of the columns that were analyzed with fantasy points.
+![](Graphs/Volume_Plot.jpg) </br> The position of Running Backs is a good way to represent the difference between the measurements of each of the columns that were analyzed with fantasy points.
 
 Next, we observed the volatility of the NFL&#39;s top-tier Wide Receivers to determine how valuable they are to a fantasy football team. We took the top 10 Wide Receivers of every year and followed their performance to see their change in point accumulation every year.
 
