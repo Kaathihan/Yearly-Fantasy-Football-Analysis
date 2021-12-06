@@ -20,11 +20,11 @@ When investigating players&#39; statistics, we were able to explore many differe
 
 To get a better idea of what we looked at for analyzing the statistics of players, below we have the statistics of the player Melvin Gordon.
 
-![](RackMultipart20211206-4-1fqvomk_html_bac7d7b838c0d924.png)
+![](Melvin_Gordon_Graph.png)
 
 This figure shows a quick distribution of Melvin Gordons fantasy points over the years 2015 – 2020.
 
-![](RackMultipart20211206-4-1fqvomk_html_7697e33772445f51.png)
+![](Melvin_Gordon_Chart.png)
 
 This DataFrame of 6 rows and 27 columns show Melvin Gordons stats with each row being the next year from 2015 – 2016.
 
@@ -32,13 +32,13 @@ In the fantasy football word, volume reigns supreme. It is a simple concept wher
 
 When we finished analyzing the snap, rush and target percentage in correlation with their relationship to fantasy points, we found that snap percentage had a positive correlation with fantasy points in every position, but interestingly, rushing percentage had little to no correlation.
 
-![](RackMultipart20211206-4-1fqvomk_html_fef5daf1804a7989.png)The position of Running Backs is a good way to represent the difference between the measurements of each of the columns that were analyzed with fantasy points.
+![](Volume_Plot.png)The position of Running Backs is a good way to represent the difference between the measurements of each of the columns that were analyzed with fantasy points.
 
 Next, we observed the volatility of the NFL&#39;s top-tier Wide Receivers to determine how valuable they are to a fantasy football team. We took the top 10 Wide Receivers of every year and followed their performance to see their change in point accumulation every year.
 
 Our results allowed us to observe the fluctuations and predictability of the top receivers, which allows people to decide if they want to draft them or not.
 
-For example, this plot represents the top 10 fantasy wide receivers from 2015 and displays their yearly points in the later years. ![](RackMultipart20211206-4-1fqvomk_html_fd41bc3a4b14d665.png)
+For example, this plot represents the top 10 fantasy wide receivers from 2015 and displays their yearly points in the later years. ![](WR_Line.png)
 
 As seen above, one can assess the steady decline in fantasy points and the players involved and can attribute these spikes and falls to things such as players aging or even lack of consistency in having good / bad years.
 
@@ -46,7 +46,7 @@ Quarterbacks are of course a key position in every team, especially for fantasy 
 
 After analyzing the consistency of wide receivers, we wanted to find the difference between each tier of receiver (each tier contains 14 WRs).
 
-![](RackMultipart20211206-4-1fqvomk_html_61a3eb47549226ac.png)The most surprising result was just how wide the gap between tier 1 and tier 2. It was much larger than the difference between 2 and 3, indicating how important a high-level Wide Receiver is on a fantasy team. All tiers shared a target share of over 11% which was unexpected. Thus when putting together a team we would strongly suggest choosing Wide Receivers with a target share greater than 11%.
+![](WR_Chart.png)The most surprising result was just how wide the gap between tier 1 and tier 2. It was much larger than the difference between 2 and 3, indicating how important a high-level Wide Receiver is on a fantasy team. All tiers shared a target share of over 11% which was unexpected. Thus when putting together a team we would strongly suggest choosing Wide Receivers with a target share greater than 11%.
 
 We have spoken about positions and injuries, but no other position is affected more from injuries than the Running Back. This relationship plays a big factor in determining their value in a fantasy team. We wanted to analyze any correlations that may be involved with a Running Backs number of injuries.
 
