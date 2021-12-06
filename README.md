@@ -50,9 +50,7 @@ After analyzing the consistency of wide receivers, we wanted to find the differe
 
 We have spoken about positions and injuries, but no other position is affected more from injuries than the Running Back. This relationship plays a big factor in determining their value in a fantasy team. We wanted to analyze any correlations that may be involved with a Running Backs number of injuries.
 
-We decided to measure a heavy workload as a Running Back with over 170 carries and a player being injured would be labeled if they missed at least 3 games. From this we were able to find that 43% of players with a heavy workload got injured which is close to half. Though this didn&#39;t give us an overwhelming majority, it opened our team and our analysis up to more questions and theories, such as what could be causing the players with such higher workloads
-
-avoid getting injured? Were there any other factors in play with the other 57% who were not getting injured.
+We decided to measure a heavy workload as a Running Back with over 170 carries and a player being injured would be labeled if they missed at least 3 games. From this we were able to find that 43% of players with a heavy workload got injured which is close to half. Though this didn&#39;t give us an overwhelming majority, it opened our team and our analysis up to more questions and theories, such as what could be causing the players with such higher workloads avoid getting injured? Were there any other factors in play with the other 57% who were not getting injured.
 
 ## Conclusion
 
